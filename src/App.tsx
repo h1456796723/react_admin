@@ -1,6 +1,7 @@
+import React from 'react'
 import {Button} from 'antd'
 
-function App() {
+const App: React.FC = () => {
   return (
     <>
       <div>hello</div>
